@@ -1,0 +1,8 @@
+{
+    "name": "syscontroller-service",
+    "version": "1.0.986",
+    "private": false,
+    "environment": "production",
+    "build_id": 614,
+    "allow_public_access": true
+}
